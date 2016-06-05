@@ -1,0 +1,5 @@
+CIUDAD INTELIGENTE
+
+Informacion general para lograr un sistema capaz de manejar una ciudad inteligente, la cual posea sensores actuadores, y un
+sistema de informacion para la ciudad, con el objetivo de lograr eficiencia, ayuda en el transito, seguridad, y sistemas de
+informacion para usos generales y de la poblacion en general.
